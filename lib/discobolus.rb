@@ -1,5 +1,6 @@
 require "discobolus/version"
+require "discobolus/disc_id_reader.rb"
 
 module Discobolus
-  # Your code goes here...
+  
 end
